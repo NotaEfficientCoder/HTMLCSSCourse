@@ -1,4 +1,4 @@
-YOUTUBE CLONE
+# YoutubeClone
 
 This repository is for a project I made when I wanted to start learning HTML and CSS. The project itself is youtube.html and the CSS for it can be found in the styles folder. The rest of the content was to practice the skills needed to design the clone.
 
